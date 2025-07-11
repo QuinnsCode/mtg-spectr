@@ -9,7 +9,3 @@ def hello():
 @app.route('/api/health')
 def health():
     return {'status': 'healthy'}
-
-# This is what Vercel needs
-def handler(request, response):
-    return app(request.environ, lambda status, headers: None)
