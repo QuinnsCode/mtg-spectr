@@ -1,0 +1,37 @@
+{
+  "card_name": "Bane of Progress",
+  "set_code": "fic",
+  "rarity": "rare",
+  "raw_usd_price": "1.30",
+  "steps": [
+    {
+      "step": "price_conversion",
+      "result": "PASS",
+      "current_price": 1.3
+    },
+    {
+      "step": "minimum_price_threshold",
+      "result": "PASS",
+      "current_price": 1.3
+    },
+    {
+      "step": "expected_price_calculation",
+      "result": "PASS",
+      "expected_price": 4.680000000000001
+    },
+    {
+      "step": "anomaly_score_calculation",
+      "result": "PASS",
+      "anomaly_score": 0.7222222222222223
+    },
+    {
+      "step": "anomaly_threshold_check",
+      "result": "FAIL",
+      "reason": "Anomaly score 0.722 below threshold 0.8"
+    }
+  ],
+  "current_price": 1.3,
+  "expected_price": 4.680000000000001,
+  "anomaly_score": 0.7222222222222223,
+  "anomaly_threshold": 0.8
+}

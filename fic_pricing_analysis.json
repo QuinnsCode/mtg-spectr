@@ -1,0 +1,217 @@
+{
+  "analysis_results": [
+    {
+      "card_name": "Abundant Growth",
+      "actual_price": 0.24,
+      "expected_price": 0.3003,
+      "difference": -0.06030000000000002,
+      "percentage_diff": -20.079920079920086,
+      "calculation_steps": [
+        "Base price (common): $0.15",
+        "Very cheap spell multiplier (1.3x): $0.15 -> $0.20",
+        "Commander set multiplier (1.4x): $0.20 -> $0.27",
+        "Age multiplier (2-4 years, 1.1x): $0.27 -> $0.30"
+      ],
+      "anomaly_info": null,
+      "card_data": {
+        "rarity": "common",
+        "type_line": "Enchantment \u2014 Aura",
+        "mana_cost": "{G}",
+        "set_code": "afc",
+        "collector_number": "150"
+      }
+    },
+    {
+      "card_name": "Acidic Slime",
+      "actual_price": 0.2,
+      "expected_price": 0.8008000000000001,
+      "difference": -0.6008,
+      "percentage_diff": -75.02497502497502,
+      "calculation_steps": [
+        "Base price (uncommon): $0.40",
+        "Creature multiplier (1.3x): $0.40 -> $0.52",
+        "Commander set multiplier (1.4x): $0.52 -> $0.73",
+        "Age multiplier (2-4 years, 1.1x): $0.73 -> $0.80"
+      ],
+      "anomaly_info": null,
+      "card_data": {
+        "rarity": "uncommon",
+        "type_line": "Creature \u2014 Ooze",
+        "mana_cost": "{3}{G}{G}",
+        "set_code": "afc",
+        "collector_number": "151"
+      }
+    },
+    {
+      "card_name": "Angelic Gift",
+      "actual_price": 0.16,
+      "expected_price": 0.2541,
+      "difference": -0.09409999999999999,
+      "percentage_diff": -37.03266430539158,
+      "calculation_steps": [
+        "Base price (common): $0.15",
+        "Cheap spell multiplier (1.1x): $0.15 -> $0.17",
+        "Commander set multiplier (1.4x): $0.17 -> $0.23",
+        "Age multiplier (2-4 years, 1.1x): $0.23 -> $0.25"
+      ],
+      "anomaly_info": null,
+      "card_data": {
+        "rarity": "common",
+        "type_line": "Enchantment \u2014 Aura",
+        "mana_cost": "{1}{W}",
+        "set_code": "afc",
+        "collector_number": "64"
+      }
+    },
+    {
+      "card_name": "Angel of Finality",
+      "actual_price": 0.19,
+      "expected_price": 3.303300000000001,
+      "difference": -3.113300000000001,
+      "percentage_diff": -94.24817606635789,
+      "calculation_steps": [
+        "Base price (rare): $1.50",
+        "Creature multiplier (1.3x): $1.50 -> $1.95",
+        "Cheap spell multiplier (1.1x): $1.95 -> $2.15",
+        "Commander set multiplier (1.4x): $2.15 -> $3.00",
+        "Age multiplier (2-4 years, 1.1x): $3.00 -> $3.30"
+      ],
+      "anomaly_info": null,
+      "card_data": {
+        "rarity": "rare",
+        "type_line": "Creature \u2014 Angel",
+        "mana_cost": "{3}{W}",
+        "set_code": "afc",
+        "collector_number": "63"
+      }
+    },
+    {
+      "card_name": "Anger",
+      "actual_price": 1.56,
+      "expected_price": 0.8808800000000001,
+      "difference": 0.67912,
+      "percentage_diff": 77.09563164108617,
+      "calculation_steps": [
+        "Base price (uncommon): $0.40",
+        "Creature multiplier (1.3x): $0.40 -> $0.52",
+        "Cheap spell multiplier (1.1x): $0.52 -> $0.57",
+        "Commander set multiplier (1.4x): $0.57 -> $0.80",
+        "Age multiplier (2-4 years, 1.1x): $0.80 -> $0.88"
+      ],
+      "anomaly_info": null,
+      "card_data": {
+        "rarity": "uncommon",
+        "type_line": "Creature \u2014 Incarnation",
+        "mana_cost": "{3}{R}",
+        "set_code": "afc",
+        "collector_number": "113"
+      }
+    },
+    {
+      "card_name": "Apex of Power",
+      "actual_price": 0.37,
+      "expected_price": 6.16,
+      "difference": -5.79,
+      "percentage_diff": -93.9935064935065,
+      "calculation_steps": [
+        "Base price (mythic): $4.00",
+        "Commander set multiplier (1.4x): $4.00 -> $5.60",
+        "Age multiplier (2-4 years, 1.1x): $5.60 -> $6.16"
+      ],
+      "anomaly_info": null,
+      "card_data": {
+        "rarity": "mythic",
+        "type_line": "Sorcery",
+        "mana_cost": "{7}{R}{R}{R}",
+        "set_code": "afc",
+        "collector_number": "114"
+      }
+    },
+    {
+      "card_name": "Arcane Endeavor",
+      "actual_price": 0.39,
+      "expected_price": 2.3099999999999996,
+      "difference": -1.9199999999999995,
+      "percentage_diff": -83.11688311688312,
+      "calculation_steps": [
+        "Base price (rare): $1.50",
+        "Commander set multiplier (1.4x): $1.50 -> $2.10",
+        "Age multiplier (2-4 years, 1.1x): $2.10 -> $2.31"
+      ],
+      "anomaly_info": null,
+      "card_data": {
+        "rarity": "rare",
+        "type_line": "Sorcery",
+        "mana_cost": "{5}{U}{U}",
+        "set_code": "afc",
+        "collector_number": "14"
+      }
+    },
+    {
+      "card_name": "Arcane Endeavor",
+      "actual_price": 0.34,
+      "expected_price": 2.3099999999999996,
+      "difference": -1.9699999999999995,
+      "percentage_diff": -85.28138528138528,
+      "calculation_steps": [
+        "Base price (rare): $1.50",
+        "Commander set multiplier (1.4x): $1.50 -> $2.10",
+        "Age multiplier (2-4 years, 1.1x): $2.10 -> $2.31"
+      ],
+      "anomaly_info": null,
+      "card_data": {
+        "rarity": "rare",
+        "type_line": "Sorcery",
+        "mana_cost": "{5}{U}{U}",
+        "set_code": "afc",
+        "collector_number": "283"
+      }
+    },
+    {
+      "card_name": "Arcane Sanctum",
+      "actual_price": 0.43,
+      "expected_price": 0.7392,
+      "difference": -0.3092,
+      "percentage_diff": -41.82900432900433,
+      "calculation_steps": [
+        "Base price (uncommon): $0.40",
+        "Land multiplier (1.2x): $0.40 -> $0.48",
+        "Commander set multiplier (1.4x): $0.48 -> $0.67",
+        "Age multiplier (2-4 years, 1.1x): $0.67 -> $0.74"
+      ],
+      "anomaly_info": null,
+      "card_data": {
+        "rarity": "uncommon",
+        "type_line": "Land",
+        "mana_cost": "",
+        "set_code": "afc",
+        "collector_number": "223"
+      }
+    },
+    {
+      "card_name": "Arcane Signet",
+      "actual_price": 0.55,
+      "expected_price": 0.36035999999999996,
+      "difference": 0.1896400000000001,
+      "percentage_diff": 52.62515262515266,
+      "calculation_steps": [
+        "Base price (common): $0.15",
+        "Artifact multiplier (1.2x): $0.15 -> $0.18",
+        "Very cheap spell multiplier (1.3x): $0.18 -> $0.23",
+        "Commander set multiplier (1.4x): $0.23 -> $0.33",
+        "Age multiplier (2-4 years, 1.1x): $0.33 -> $0.36"
+      ],
+      "anomaly_info": null,
+      "card_data": {
+        "rarity": "common",
+        "type_line": "Artifact",
+        "mana_cost": "{2}",
+        "set_code": "afc",
+        "collector_number": "197"
+      }
+    }
+  ],
+  "timestamp": "2025-07-09T10:43:31.580220",
+  "set_code": "afc",
+  "cards_analyzed": 10
+}

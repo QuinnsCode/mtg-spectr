@@ -1,0 +1,80 @@
+{
+  "set_code": "fin",
+  "set_name": "Final Fantasy",
+  "total_cards": 586,
+  "scanned_cards": 175,
+  "anomalies_found": 3,
+  "scan_duration": 20.34047031402588,
+  "anomaly_cards": [
+    {
+      "card_name": "Buster Sword",
+      "set_code": "fin",
+      "current_price": 42.88,
+      "expected_price": 6.0,
+      "anomaly_score": 9.22,
+      "anomaly_type": "overvalued",
+      "confidence": 1.0,
+      "rarity": "mythic",
+      "foil_status": "foil",
+      "market_data": {
+        "usd_foil": "46.66",
+        "eur": "32.91",
+        "tix": null,
+        "type_line": "Artifact \u2014 Equipment",
+        "mana_cost": "{3}",
+        "collector_number": "255"
+      }
+    },
+    {
+      "card_name": "Cid, Timeless Artificer",
+      "set_code": "fin",
+      "current_price": 7.95,
+      "expected_price": 0.75,
+      "anomaly_score": 6.72,
+      "anomaly_type": "overvalued",
+      "confidence": 1.0,
+      "rarity": "uncommon",
+      "foil_status": "foil",
+      "market_data": {
+        "usd_foil": "12.39",
+        "eur": "4.80",
+        "tix": null,
+        "type_line": "Legendary Creature \u2014 Human Artificer",
+        "mana_cost": "{2}{W}{U}",
+        "collector_number": "216"
+      }
+    },
+    {
+      "card_name": "Cloud, Midgar Mercenary",
+      "set_code": "fin",
+      "current_price": 27.69,
+      "expected_price": 7.5,
+      "anomaly_score": 4.038,
+      "anomaly_type": "overvalued",
+      "confidence": 1.0,
+      "rarity": "mythic",
+      "foil_status": "foil",
+      "market_data": {
+        "usd_foil": "31.76",
+        "eur": "25.87",
+        "tix": null,
+        "type_line": "Legendary Creature \u2014 Human Soldier Mercenary",
+        "mana_cost": "{W}{W}",
+        "collector_number": "10"
+      }
+    }
+  ],
+  "price_statistics": {
+    "total_cards_with_prices": 174,
+    "average_price": 1.068390804597701,
+    "median_price": 0.14,
+    "min_price": 0.02,
+    "max_price": 42.88,
+    "price_std_dev": 4.11829567239081,
+    "anomaly_rate": 0.017142857142857144,
+    "undervalued_count": 0,
+    "overvalued_count": 3,
+    "volatile_count": 0
+  },
+  "scan_timestamp": "2025-07-09T09:17:49.347705"
+}

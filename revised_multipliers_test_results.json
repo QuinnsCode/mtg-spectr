@@ -1,0 +1,233 @@
+{
+  "results": [
+    {
+      "card_name": "Klauth, Unrivaled Ancient",
+      "actual_price": 46.52,
+      "current_expected": 20.02,
+      "revised_expected": 70.47040000000003,
+      "current_error": 26.500000000000004,
+      "revised_error": 23.950400000000023,
+      "improvement": 9.621132075471623,
+      "rarity": "mythic",
+      "type_line": "Legendary Creature \u2014 Dragon"
+    },
+    {
+      "card_name": "Wulfgar of Icewind Dale",
+      "actual_price": 7.1,
+      "current_expected": 7.507499999999999,
+      "revised_expected": 27.68480000000001,
+      "current_error": 0.40749999999999975,
+      "revised_error": 20.58480000000001,
+      "improvement": -4951.484662576692,
+      "rarity": "rare",
+      "type_line": "Legendary Creature \u2014 Human Barbarian"
+    },
+    {
+      "card_name": "Winged Boots",
+      "actual_price": 4.56,
+      "current_expected": 3.0492,
+      "revised_expected": 13.176900000000002,
+      "current_error": 1.5107999999999997,
+      "revised_error": 8.616900000000001,
+      "improvement": -470.35345512311375,
+      "rarity": "rare",
+      "type_line": "Artifact \u2014 Equipment"
+    },
+    {
+      "card_name": "Danse Macabre",
+      "actual_price": 2.88,
+      "current_expected": 2.3099999999999996,
+      "revised_expected": 8.651500000000002,
+      "current_error": 0.5700000000000003,
+      "revised_error": 5.771500000000002,
+      "improvement": -912.5438596491227,
+      "rarity": "rare",
+      "type_line": "Sorcery"
+    },
+    {
+      "card_name": "Marionette Master",
+      "actual_price": 2.37,
+      "current_expected": 3.003,
+      "revised_expected": 8.651500000000002,
+      "current_error": 0.633,
+      "revised_error": 6.281500000000002,
+      "improvement": -892.3380726698266,
+      "rarity": "rare",
+      "type_line": "Creature \u2014 Human Artificer"
+    },
+    {
+      "card_name": "Fevered Suspicion",
+      "actual_price": 1.84,
+      "current_expected": 2.3099999999999996,
+      "revised_expected": 8.651500000000002,
+      "current_error": 0.46999999999999953,
+      "revised_error": 6.811500000000002,
+      "improvement": -1349.255319148938,
+      "rarity": "rare",
+      "type_line": "Sorcery"
+    },
+    {
+      "card_name": "Viridian Longbow",
+      "actual_price": 1.51,
+      "current_expected": 0.36035999999999996,
+      "revised_expected": 1.1325600000000005,
+      "current_error": 1.14964,
+      "revised_error": 0.37743999999999955,
+      "improvement": 67.16885285828612,
+      "rarity": "common",
+      "type_line": "Artifact \u2014 Equipment"
+    },
+    {
+      "card_name": "Geier Reach Sanitarium",
+      "actual_price": 1.12,
+      "current_expected": 6.930000000000001,
+      "revised_expected": 19.965000000000003,
+      "current_error": 5.8100000000000005,
+      "revised_error": 18.845000000000002,
+      "improvement": -224.35456110154908,
+      "rarity": "rare",
+      "type_line": "Legendary Land"
+    },
+    {
+      "card_name": "Atarka, World Render",
+      "actual_price": 0.79,
+      "current_expected": 7.507499999999999,
+      "revised_expected": 27.68480000000001,
+      "current_error": 6.717499999999999,
+      "revised_error": 26.89480000000001,
+      "improvement": -300.3691849646448,
+      "rarity": "rare",
+      "type_line": "Legendary Creature \u2014 Dragon"
+    },
+    {
+      "card_name": "Valiant Endeavor",
+      "actual_price": 0.63,
+      "current_expected": 2.3099999999999996,
+      "revised_expected": 8.651500000000002,
+      "current_error": 1.6799999999999997,
+      "revised_error": 8.021500000000001,
+      "improvement": -377.47023809523824,
+      "rarity": "rare",
+      "type_line": "Sorcery"
+    },
+    {
+      "card_name": "Dead Man's Chest",
+      "actual_price": 0.48,
+      "current_expected": 2.5410000000000004,
+      "revised_expected": 7.320500000000002,
+      "current_error": 2.0610000000000004,
+      "revised_error": 6.840500000000002,
+      "improvement": -231.90198932557018,
+      "rarity": "rare",
+      "type_line": "Enchantment \u2014 Aura"
+    },
+    {
+      "card_name": "Phantom Steed",
+      "actual_price": 0.4,
+      "current_expected": 3.303300000000001,
+      "revised_expected": 9.516650000000004,
+      "current_error": 2.903300000000001,
+      "revised_error": 9.116650000000003,
+      "improvement": -214.00991974649534,
+      "rarity": "rare",
+      "type_line": "Creature \u2014 Horse Illusion"
+    },
+    {
+      "card_name": "Opportunistic Dragon",
+      "actual_price": 0.34,
+      "current_expected": 3.003,
+      "revised_expected": 8.651500000000002,
+      "current_error": 2.6630000000000003,
+      "revised_error": 8.311500000000002,
+      "improvement": -212.11040180247846,
+      "rarity": "rare",
+      "type_line": "Creature \u2014 Dragon"
+    },
+    {
+      "card_name": "Fey Steed",
+      "actual_price": 0.29,
+      "current_expected": 3.003,
+      "revised_expected": 8.651500000000002,
+      "current_error": 2.713,
+      "revised_error": 8.361500000000003,
+      "improvement": -208.20125322521204,
+      "rarity": "rare",
+      "type_line": "Creature \u2014 Elk"
+    },
+    {
+      "card_name": "Choked Estuary",
+      "actual_price": 0.25,
+      "current_expected": 2.772,
+      "revised_expected": 7.986000000000001,
+      "current_error": 2.522,
+      "revised_error": 7.736000000000001,
+      "improvement": -206.74068199841398,
+      "rarity": "rare",
+      "type_line": "Land"
+    },
+    {
+      "card_name": "Hoard-Smelter Dragon",
+      "actual_price": 0.22,
+      "current_expected": 3.003,
+      "revised_expected": 8.651500000000002,
+      "current_error": 2.783,
+      "revised_error": 8.431500000000002,
+      "improvement": -202.96442687747046,
+      "rarity": "rare",
+      "type_line": "Creature \u2014 Dragon"
+    },
+    {
+      "card_name": "Angel of Finality",
+      "actual_price": 0.19,
+      "current_expected": 3.303300000000001,
+      "revised_expected": 9.516650000000004,
+      "current_error": 3.113300000000001,
+      "revised_error": 9.326650000000004,
+      "improvement": -199.57440657822895,
+      "rarity": "rare",
+      "type_line": "Creature \u2014 Angel"
+    },
+    {
+      "card_name": "Cold-Eyed Selkie",
+      "actual_price": 0.17,
+      "current_expected": 3.003,
+      "revised_expected": 8.651500000000002,
+      "current_error": 2.833,
+      "revised_error": 8.481500000000002,
+      "improvement": -199.38228026826692,
+      "rarity": "rare",
+      "type_line": "Creature \u2014 Merfolk Rogue"
+    },
+    {
+      "card_name": "Skycloud Expanse",
+      "actual_price": 0.15,
+      "current_expected": 2.772,
+      "revised_expected": 7.986000000000001,
+      "current_error": 2.622,
+      "revised_error": 7.836,
+      "improvement": -198.85583524027462,
+      "rarity": "rare",
+      "type_line": "Land"
+    },
+    {
+      "card_name": "Murder of Crows",
+      "actual_price": 0.11,
+      "current_expected": 0.8008000000000001,
+      "revised_expected": 2.2022,
+      "current_error": 0.6908000000000001,
+      "revised_error": 2.0922,
+      "improvement": -202.8662420382165,
+      "rarity": "uncommon",
+      "type_line": "Creature \u2014 Bird"
+    }
+  ],
+  "summary": {
+    "avg_current_error": 3.517642,
+    "avg_revised_error": 10.134467000000004,
+    "avg_improvement": -573.8993402747998,
+    "overall_improvement": -188.10399125323164,
+    "cards_improved": 2,
+    "cards_degraded": 18,
+    "total_cards": 20
+  }
+}

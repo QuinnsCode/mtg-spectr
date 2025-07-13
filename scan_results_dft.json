@@ -1,0 +1,42 @@
+{
+  "set_code": "dft",
+  "set_name": "Aetherdrift",
+  "total_cards": 553,
+  "scanned_cards": 175,
+  "anomalies_found": 1,
+  "scan_duration": 19.85614323616028,
+  "anomaly_cards": [
+    {
+      "card_name": "Bleachbone Verge",
+      "set_code": "dft",
+      "current_price": 7.59,
+      "expected_price": 1.6,
+      "anomaly_score": 3.74375,
+      "anomaly_type": "overvalued",
+      "confidence": 1.0,
+      "rarity": "rare",
+      "foil_status": "foil",
+      "market_data": {
+        "usd_foil": "7.35",
+        "eur": "7.55",
+        "tix": "0.61",
+        "type_line": "Land",
+        "mana_cost": "",
+        "collector_number": "250"
+      }
+    }
+  ],
+  "price_statistics": {
+    "total_cards_with_prices": 175,
+    "average_price": 0.2946285714285714,
+    "median_price": 0.07,
+    "min_price": 0.01,
+    "max_price": 9.13,
+    "price_std_dev": 0.9995946041982221,
+    "anomaly_rate": 0.005714285714285714,
+    "undervalued_count": 0,
+    "overvalued_count": 1,
+    "volatile_count": 0
+  },
+  "scan_timestamp": "2025-07-09T09:19:42.764201"
+}

@@ -1,0 +1,57 @@
+--- a/mtg_card_pricing/gui/results_widget.py
++++ b/mtg_card_pricing/gui/results_widget.py
+@@ -280,6 +280,7 @@ class ResultsWidget(QWidget):
+     def display_results(self, results: List[Dict]):
+         '''Display search results in the tables.'''
++        logger.info(f"ResultsWidget: Received {len(results)} results to display")
+         self.current_results = results
+         
+         # Update filter options
+@@ -288,6 +289,9 @@ class ResultsWidget(QWidget):
+         # Apply current filters
+         self.apply_filters()
+         
++        # Log filtered results count
++        logger.info(f"ResultsWidget: After filtering, showing {len(self.filtered_results)} results")
++        
+         # Update summary
+         self.update_summary()
+         
+@@ -328,6 +332,10 @@ class ResultsWidget(QWidget):
+         set_filter = self.set_filter_combo.currentData()
+         condition_filter = self.condition_filter_combo.currentData()
+         
++        # FIX: Check if filter has valid data
++        if self.condition_filter_combo.currentIndex() == 0:
++            condition_filter = None  # "All Conditions" selected
++        
+         foil_only = self.foil_filter_check.isChecked()
+         anomaly_only = self.anomaly_filter_check.isChecked()
+         
+@@ -456,6 +464,12 @@ class ResultsWidget(QWidget):
+         # Auto-resize columns
+         self.results_table.resizeColumnsToContents()
+         
++        # Force table refresh
++        self.results_table.viewport().update()
++        
++        # Ensure table is visible
++        if self.results_table.rowCount() > 0:
++            self.results_table.scrollToTop()
++        
+         # Update info label
+         total_results = len(self.current_results)
+
+--- a/mtg_card_pricing/gui/search_widget.py
++++ b/mtg_card_pricing/gui/search_widget.py
+@@ -514,6 +514,10 @@ class SearchWidget(QWidget):
+     
+     def on_search_completed(self, results: List[Dict]):
+         '''Handle search completion.'''
++        logger.info(f"SearchWidget: Search completed with {len(results)} results")
++        
++        # Emit the signal
+         self.search_completed.emit(results)
++        logger.info(f"SearchWidget: Emitted search_completed signal")
+         
+         count = len(results)

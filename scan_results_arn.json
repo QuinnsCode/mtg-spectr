@@ -1,0 +1,403 @@
+{
+  "set_code": "arn",
+  "set_name": "Arabian Nights",
+  "total_cards": 92,
+  "scanned_cards": 20,
+  "anomalies_found": 20,
+  "scan_duration": 4.661638021469116,
+  "anomaly_cards": [
+    {
+      "card_name": "Bazaar of Baghdad",
+      "set_code": "arn",
+      "current_price": 2132.0,
+      "expected_price": 0.4,
+      "anomaly_score": 3730.2999999999993,
+      "anomaly_type": "overvalued",
+      "confidence": 1.0,
+      "rarity": "uncommon",
+      "foil_status": "nonfoil",
+      "market_data": {
+        "usd_foil": null,
+        "eur": "1580.24",
+        "tix": null,
+        "type_line": "Land",
+        "mana_cost": "",
+        "collector_number": "70"
+      }
+    },
+    {
+      "card_name": "City of Brass",
+      "set_code": "arn",
+      "current_price": 619.23,
+      "expected_price": 0.4,
+      "anomaly_score": 1082.9524999999999,
+      "anomaly_type": "overvalued",
+      "confidence": 1.0,
+      "rarity": "uncommon",
+      "foil_status": "nonfoil",
+      "market_data": {
+        "usd_foil": null,
+        "eur": "410.41",
+        "tix": null,
+        "type_line": "Land",
+        "mana_cost": "",
+        "collector_number": "71"
+      }
+    },
+    {
+      "card_name": "Ali from Cairo",
+      "set_code": "arn",
+      "current_price": 400.0,
+      "expected_price": 2.0,
+      "anomaly_score": 199.0,
+      "anomaly_type": "overvalued",
+      "confidence": 1.0,
+      "rarity": "rare",
+      "foil_status": "nonfoil",
+      "market_data": {
+        "usd_foil": null,
+        "eur": "247.22",
+        "tix": null,
+        "type_line": "Creature \u2014 Human",
+        "mana_cost": "{2}{R}{R}",
+        "collector_number": "36"
+      }
+    },
+    {
+      "card_name": "City in a Bottle",
+      "set_code": "arn",
+      "current_price": 398.66,
+      "expected_price": 2.4,
+      "anomaly_score": 165.10833333333335,
+      "anomaly_type": "overvalued",
+      "confidence": 1.0,
+      "rarity": "rare",
+      "foil_status": "nonfoil",
+      "market_data": {
+        "usd_foil": null,
+        "eur": "403.26",
+        "tix": null,
+        "type_line": "Artifact",
+        "mana_cost": "{2}",
+        "collector_number": "60"
+      }
+    },
+    {
+      "card_name": "Abu Ja'far",
+      "set_code": "arn",
+      "current_price": 59.97,
+      "expected_price": 0.6,
+      "anomaly_score": 69.265,
+      "anomaly_type": "overvalued",
+      "confidence": 1.0,
+      "rarity": "uncommon",
+      "foil_status": "nonfoil",
+      "market_data": {
+        "usd_foil": null,
+        "eur": "14.66",
+        "tix": null,
+        "type_line": "Creature \u2014 Human",
+        "mana_cost": "{W}",
+        "collector_number": "1"
+      }
+    },
+    {
+      "card_name": "Aladdin",
+      "set_code": "arn",
+      "current_price": 104.48,
+      "expected_price": 2.0,
+      "anomaly_score": 51.24,
+      "anomaly_type": "overvalued",
+      "confidence": 1.0,
+      "rarity": "rare",
+      "foil_status": "nonfoil",
+      "market_data": {
+        "usd_foil": null,
+        "eur": "49.19",
+        "tix": null,
+        "type_line": "Creature \u2014 Human Rogue",
+        "mana_cost": "{2}{R}{R}",
+        "collector_number": "34"
+      }
+    },
+    {
+      "card_name": "Army of Allah",
+      "set_code": "arn",
+      "current_price": 22.42,
+      "expected_price": 0.25,
+      "anomaly_score": 44.34,
+      "anomaly_type": "overvalued",
+      "confidence": 1.0,
+      "rarity": "common",
+      "foil_status": "nonfoil",
+      "market_data": {
+        "usd_foil": null,
+        "eur": "17.28",
+        "tix": null,
+        "type_line": "Instant",
+        "mana_cost": "{1}{W}{W}",
+        "collector_number": "2"
+      }
+    },
+    {
+      "card_name": "Brass Man",
+      "set_code": "arn",
+      "current_price": 32.36,
+      "expected_price": 0.6,
+      "anomaly_score": 37.05333333333333,
+      "anomaly_type": "overvalued",
+      "confidence": 1.0,
+      "rarity": "uncommon",
+      "foil_status": "nonfoil",
+      "market_data": {
+        "usd_foil": null,
+        "eur": "26.69",
+        "tix": null,
+        "type_line": "Artifact Creature \u2014 Construct",
+        "mana_cost": "{1}",
+        "collector_number": "59"
+      }
+    },
+    {
+      "card_name": "Ali Baba",
+      "set_code": "arn",
+      "current_price": 31.67,
+      "expected_price": 0.6,
+      "anomaly_score": 36.248333333333335,
+      "anomaly_type": "overvalued",
+      "confidence": 1.0,
+      "rarity": "uncommon",
+      "foil_status": "nonfoil",
+      "market_data": {
+        "usd_foil": null,
+        "eur": "17.16",
+        "tix": null,
+        "type_line": "Creature \u2014 Human Rogue",
+        "mana_cost": "{R}",
+        "collector_number": "35"
+      }
+    },
+    {
+      "card_name": "Aladdin's Ring",
+      "set_code": "arn",
+      "current_price": 84.97,
+      "expected_price": 2.4,
+      "anomaly_score": 34.40416666666667,
+      "anomaly_type": "overvalued",
+      "confidence": 1.0,
+      "rarity": "rare",
+      "foil_status": "nonfoil",
+      "market_data": {
+        "usd_foil": null,
+        "eur": "28.65",
+        "tix": null,
+        "type_line": "Artifact",
+        "mana_cost": "{8}",
+        "collector_number": "57"
+      }
+    },
+    {
+      "card_name": "Desert",
+      "set_code": "arn",
+      "current_price": 13.92,
+      "expected_price": 0.2,
+      "anomaly_score": 34.3,
+      "anomaly_type": "overvalued",
+      "confidence": 1.0,
+      "rarity": "common",
+      "foil_status": "nonfoil",
+      "market_data": {
+        "usd_foil": null,
+        "eur": "8.91",
+        "tix": null,
+        "type_line": "Land \u2014 Desert",
+        "mana_cost": "",
+        "collector_number": "72"
+      }
+    },
+    {
+      "card_name": "Cyclone",
+      "set_code": "arn",
+      "current_price": 24.41,
+      "expected_price": 0.5,
+      "anomaly_score": 33.474,
+      "anomaly_type": "overvalued",
+      "confidence": 1.0,
+      "rarity": "uncommon",
+      "foil_status": "nonfoil",
+      "market_data": {
+        "usd_foil": null,
+        "eur": "16.56",
+        "tix": null,
+        "type_line": "Enchantment",
+        "mana_cost": "{2}{G}{G}",
+        "collector_number": "45"
+      }
+    },
+    {
+      "card_name": "Dand\u00e2n",
+      "set_code": "arn",
+      "current_price": 16.87,
+      "expected_price": 0.25,
+      "anomaly_score": 33.24,
+      "anomaly_type": "overvalued",
+      "confidence": 1.0,
+      "rarity": "common",
+      "foil_status": "nonfoil",
+      "market_data": {
+        "usd_foil": null,
+        "eur": "18.03",
+        "tix": null,
+        "type_line": "Creature \u2014 Fish",
+        "mana_cost": "{U}{U}",
+        "collector_number": "12"
+      }
+    },
+    {
+      "card_name": "Aladdin's Lamp",
+      "set_code": "arn",
+      "current_price": 64.9,
+      "expected_price": 2.4,
+      "anomaly_score": 26.04166666666667,
+      "anomaly_type": "overvalued",
+      "confidence": 1.0,
+      "rarity": "rare",
+      "foil_status": "nonfoil",
+      "market_data": {
+        "usd_foil": null,
+        "eur": "32.26",
+        "tix": null,
+        "type_line": "Artifact",
+        "mana_cost": "{10}",
+        "collector_number": "56"
+      }
+    },
+    {
+      "card_name": "Dancing Scimitar",
+      "set_code": "arn",
+      "current_price": 57.13,
+      "expected_price": 2.4,
+      "anomaly_score": 22.80416666666667,
+      "anomaly_type": "overvalued",
+      "confidence": 1.0,
+      "rarity": "rare",
+      "foil_status": "nonfoil",
+      "market_data": {
+        "usd_foil": null,
+        "eur": "32.20",
+        "tix": null,
+        "type_line": "Artifact Creature \u2014 Spirit",
+        "mana_cost": "{4}",
+        "collector_number": "61"
+      }
+    },
+    {
+      "card_name": "Desert Nomads",
+      "set_code": "arn",
+      "current_price": 10.37,
+      "expected_price": 0.25,
+      "anomaly_score": 20.24,
+      "anomaly_type": "overvalued",
+      "confidence": 1.0,
+      "rarity": "common",
+      "foil_status": "nonfoil",
+      "market_data": {
+        "usd_foil": null,
+        "eur": "4.86",
+        "tix": null,
+        "type_line": "Creature \u2014 Human Nomad",
+        "mana_cost": "{2}{R}",
+        "collector_number": "38"
+      }
+    },
+    {
+      "card_name": "Cuombajj Witches",
+      "set_code": "arn",
+      "current_price": 9.23,
+      "expected_price": 0.25,
+      "anomaly_score": 17.96,
+      "anomaly_type": "overvalued",
+      "confidence": 1.0,
+      "rarity": "common",
+      "foil_status": "nonfoil",
+      "market_data": {
+        "usd_foil": null,
+        "eur": "7.23",
+        "tix": null,
+        "type_line": "Creature \u2014 Human Wizard",
+        "mana_cost": "{B}{B}",
+        "collector_number": "23"
+      }
+    },
+    {
+      "card_name": "Camel",
+      "set_code": "arn",
+      "current_price": 9.46,
+      "expected_price": 0.3,
+      "anomaly_score": 15.266666666666667,
+      "anomaly_type": "overvalued",
+      "confidence": 1.0,
+      "rarity": "common",
+      "foil_status": "nonfoil",
+      "market_data": {
+        "usd_foil": null,
+        "eur": "4.90",
+        "tix": null,
+        "type_line": "Creature \u2014 Camel",
+        "mana_cost": "{W}",
+        "collector_number": "3"
+      }
+    },
+    {
+      "card_name": "Bottle of Suleiman",
+      "set_code": "arn",
+      "current_price": 36.29,
+      "expected_price": 2.4,
+      "anomaly_score": 14.120833333333334,
+      "anomaly_type": "overvalued",
+      "confidence": 1.0,
+      "rarity": "rare",
+      "foil_status": "nonfoil",
+      "market_data": {
+        "usd_foil": null,
+        "eur": "36.12",
+        "tix": null,
+        "type_line": "Artifact",
+        "mana_cost": "{4}",
+        "collector_number": "58"
+      }
+    },
+    {
+      "card_name": "Bird Maiden",
+      "set_code": "arn",
+      "current_price": 4.41,
+      "expected_price": 0.25,
+      "anomaly_score": 8.32,
+      "anomaly_type": "overvalued",
+      "confidence": 1.0,
+      "rarity": "common",
+      "foil_status": "nonfoil",
+      "market_data": {
+        "usd_foil": null,
+        "eur": "6.36",
+        "tix": null,
+        "type_line": "Creature \u2014 Human Bird",
+        "mana_cost": "{2}{R}",
+        "collector_number": "37"
+      }
+    }
+  ],
+  "price_statistics": {
+    "total_cards_with_prices": 20,
+    "average_price": 206.6375,
+    "median_price": 34.325,
+    "min_price": 4.41,
+    "max_price": 2132.0,
+    "price_std_dev": 482.77009562550904,
+    "anomaly_rate": 1.0,
+    "undervalued_count": 0,
+    "overvalued_count": 20,
+    "volatile_count": 0
+  },
+  "scan_timestamp": "2025-07-09T09:29:37.377442"
+}

@@ -1,0 +1,61 @@
+{
+  "set_code": "aer",
+  "set_name": "Aether Revolt",
+  "total_cards": 197,
+  "scanned_cards": 194,
+  "anomalies_found": 2,
+  "scan_duration": 24.456836700439453,
+  "anomaly_cards": [
+    {
+      "card_name": "Heroic Intervention",
+      "set_code": "aer",
+      "current_price": 10.01,
+      "expected_price": 2.0,
+      "anomaly_score": 4.005,
+      "anomaly_type": "overvalued",
+      "confidence": 1.0,
+      "rarity": "rare",
+      "foil_status": "foil",
+      "market_data": {
+        "usd_foil": "14.21",
+        "eur": "12.36",
+        "tix": "0.02",
+        "type_line": "Instant",
+        "mana_cost": "{1}{G}",
+        "collector_number": "109"
+      }
+    },
+    {
+      "card_name": "Walking Ballista",
+      "set_code": "aer",
+      "current_price": 7.87,
+      "expected_price": 2.0,
+      "anomaly_score": 2.935,
+      "anomaly_type": "overvalued",
+      "confidence": 1.0,
+      "rarity": "rare",
+      "foil_status": "foil",
+      "market_data": {
+        "usd_foil": "16.21",
+        "eur": "10.08",
+        "tix": "2.16",
+        "type_line": "Artifact Creature \u2014 Construct",
+        "mana_cost": "{X}{X}",
+        "collector_number": "181"
+      }
+    }
+  ],
+  "price_statistics": {
+    "total_cards_with_prices": 192,
+    "average_price": 0.38,
+    "median_price": 0.09,
+    "min_price": 0.02,
+    "max_price": 10.01,
+    "price_std_dev": 1.1152061767915056,
+    "anomaly_rate": 0.010309278350515464,
+    "undervalued_count": 0,
+    "overvalued_count": 2,
+    "volatile_count": 0
+  },
+  "scan_timestamp": "2025-07-09T09:30:53.523890"
+}

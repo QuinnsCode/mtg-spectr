@@ -1,0 +1,42 @@
+{
+  "set_code": "big",
+  "set_name": "The Big Score",
+  "total_cards": 95,
+  "scanned_cards": 20,
+  "anomalies_found": 1,
+  "scan_duration": 2.5612776279449463,
+  "anomaly_cards": [
+    {
+      "card_name": "Molten Duplication",
+      "set_code": "big",
+      "current_price": 17.17,
+      "expected_price": 5.0,
+      "anomaly_score": 3.6510000000000002,
+      "anomaly_type": "overvalued",
+      "confidence": 1.0,
+      "rarity": "mythic",
+      "foil_status": "foil",
+      "market_data": {
+        "usd_foil": "17.05",
+        "eur": "14.90",
+        "tix": "0.02",
+        "type_line": "Sorcery",
+        "mana_cost": "{1}{R}",
+        "collector_number": "14"
+      }
+    }
+  ],
+  "price_statistics": {
+    "total_cards_with_prices": 20,
+    "average_price": 3.3885,
+    "median_price": 1.53,
+    "min_price": 0.21,
+    "max_price": 17.17,
+    "price_std_dev": 4.205859665551834,
+    "anomaly_rate": 0.05,
+    "undervalued_count": 0,
+    "overvalued_count": 1,
+    "volatile_count": 0
+  },
+  "scan_timestamp": "2025-07-09T09:11:00.379273"
+}
